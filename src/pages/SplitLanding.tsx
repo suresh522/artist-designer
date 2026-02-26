@@ -35,7 +35,7 @@ const SplitLanding = () => {
         onClick={() => startTransition("designer")}
         className="w-1/2 bg-[#311505] cursor-pointer flex items-center justify-center"
       >
-        <h1 className="text-black text-6xl font-semibold">Designer</h1>
+        <h1 className="text-white text-6xl font-semibold">Designer</h1>
       </div>
 
       {/* OVERLAY TRANSITION */}
