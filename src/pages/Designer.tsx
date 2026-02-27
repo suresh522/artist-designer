@@ -5,7 +5,7 @@ const Designer = () => {
 
   return (
     <div className="h-screen bg-[#311505] flex flex-col items-center justify-center">
-      <h1 className="text-6xl font-semibold mb-8">Designer</h1>
+      <h1 className="text-6xl text-white mb-8">Designer</h1>
 
       <button
         onClick={() => startTransition("artist")}
