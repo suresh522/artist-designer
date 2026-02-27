@@ -7,7 +7,7 @@ import ColorWipe from "./components/ColorWipe";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/b8artstudios-react">
       <TransitionProvider>
         <ColorWipe />
         <Routes>
